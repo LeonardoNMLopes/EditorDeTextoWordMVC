@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leonu\\source\\repos\\WordProjetoMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2731AC86-2FBF-4950-9F23-10E4E89C2B9E}|WordProjetoMVC\\WordProjetoMVC.csproj|c:\\users\\leonu\\source\\repos\\wordprojetomvc\\wordprojetomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2731AC86-2FBF-4950-9F23-10E4E89C2B9E}|WordProjetoMVC\\WordProjetoMVC.csproj|solutionrelative:wordprojetomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2731AC86-2FBF-4950-9F23-10E4E89C2B9E}|WordProjetoMVC\\WordProjetoMVC.csproj|c:\\users\\leonu\\source\\repos\\wordprojetomvc\\wordprojetomvc\\views\\home\\criardocumento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2731AC86-2FBF-4950-9F23-10E4E89C2B9E}|WordProjetoMVC\\WordProjetoMVC.csproj|solutionrelative:wordprojetomvc\\views\\home\\criardocumento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2731AC86-2FBF-4950-9F23-10E4E89C2B9E}|WordProjetoMVC\\WordProjetoMVC.csproj|c:\\users\\leonu\\source\\repos\\wordprojetomvc\\wordprojetomvc\\views\\home\\editardocumento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2731AC86-2FBF-4950-9F23-10E4E89C2B9E}|WordProjetoMVC\\WordProjetoMVC.csproj|solutionrelative:wordprojetomvc\\views\\home\\editardocumento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2731AC86-2FBF-4950-9F23-10E4E89C2B9E}|WordProjetoMVC\\WordProjetoMVC.csproj|c:\\users\\leonu\\source\\repos\\wordprojetomvc\\wordprojetomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2731AC86-2FBF-4950-9F23-10E4E89C2B9E}|WordProjetoMVC\\WordProjetoMVC.csproj|solutionrelative:wordprojetomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2731AC86-2FBF-4950-9F23-10E4E89C2B9E}|WordProjetoMVC\\WordProjetoMVC.csproj|c:\\users\\leonu\\source\\repos\\wordprojetomvc\\wordprojetomvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2731AC86-2FBF-4950-9F23-10E4E89C2B9E}|WordProjetoMVC\\WordProjetoMVC.csproj|solutionrelative:wordprojetomvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2731AC86-2FBF-4950-9F23-10E4E89C2B9E}|WordProjetoMVC\\WordProjetoMVC.csproj|c:\\users\\leonu\\source\\repos\\wordprojetomvc\\wordprojetomvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2731AC86-2FBF-4950-9F23-10E4E89C2B9E}|WordProjetoMVC\\WordProjetoMVC.csproj|solutionrelative:wordprojetomvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 166,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\leonu\\source\\repos\\WordProjetoMVC\\WordProjetoMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WordProjetoMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\leonu\\source\\repos\\WordProjetoMVC\\WordProjetoMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WordProjetoMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T22:54:31.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditarDocumento.cshtml",
+              "DocumentMoniker": "C:\\Users\\leonu\\source\\repos\\WordProjetoMVC\\WordProjetoMVC\\Views\\Home\\EditarDocumento.cshtml",
+              "RelativeDocumentMoniker": "WordProjetoMVC\\Views\\Home\\EditarDocumento.cshtml",
+              "ToolTip": "C:\\Users\\leonu\\source\\repos\\WordProjetoMVC\\WordProjetoMVC\\Views\\Home\\EditarDocumento.cshtml",
+              "RelativeToolTip": "WordProjetoMVC\\Views\\Home\\EditarDocumento.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T22:15:22.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\leonu\\source\\repos\\WordProjetoMVC\\WordProjetoMVC\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WordProjetoMVC\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\leonu\\source\\repos\\WordProjetoMVC\\WordProjetoMVC\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WordProjetoMVC\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T21:57:34.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CriarDocumento.cshtml",
+              "DocumentMoniker": "C:\\Users\\leonu\\source\\repos\\WordProjetoMVC\\WordProjetoMVC\\Views\\Home\\CriarDocumento.cshtml",
+              "RelativeDocumentMoniker": "WordProjetoMVC\\Views\\Home\\CriarDocumento.cshtml",
+              "ToolTip": "C:\\Users\\leonu\\source\\repos\\WordProjetoMVC\\WordProjetoMVC\\Views\\Home\\CriarDocumento.cshtml",
+              "RelativeToolTip": "WordProjetoMVC\\Views\\Home\\CriarDocumento.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T18:40:27.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\leonu\\source\\repos\\WordProjetoMVC\\WordProjetoMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WordProjetoMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\leonu\\source\\repos\\WordProjetoMVC\\WordProjetoMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WordProjetoMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T18:07:10.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\leonu\\source\\repos\\WordProjetoMVC\\WordProjetoMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WordProjetoMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\leonu\\source\\repos\\WordProjetoMVC\\WordProjetoMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WordProjetoMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAjwEsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:51:00.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
